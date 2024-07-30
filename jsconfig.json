@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  }
+}
+
+// {
+//     "compilerOptions": {
+//       "baseUrl": "app", 
+//       "paths": {
+//         "@/*": [
+//           "*"
+//          ], // This will point to the app directory
+//         "@/utils/*": [
+//            "utils/*"
+//          ], // This will point to the utils directory
+//          "@/components/*": [
+//            "components/*"
+//          ] // This will point to the components directory
+//        }
+//      }
+//    }
